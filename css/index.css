@@ -1,0 +1,68 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: black;
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: ghostwhite ;
+    }
+
+    #titulo{
+        color: rgb(158, 97, 238);
+        font-size: 80px;
+        font-weight: 900;
+    }
+
+    #sub1{
+        color: rgb(158, 97, 238);
+        font-size: 50px;
+        font-weight: 900;
+    }
+
+    #sub2{
+        color: rgb(158, 97, 238);
+        font-size: 50px;
+        font-weight: 900;
+    }
+
+    .sub3{
+        color: rgb(158, 97, 238);
+    }
+
+    #top img{
+        width: auto;
+        height: 400px;     
+    }
+
+
+    #img1 img{
+        width: auto;
+        height: 400px;     
+    }
+
+    #img2{
+        width: auto;
+        height: 400px;
+    }
+
+    .p1{
+        text-align: justify;
+        margin: 0 34%;
+        
+     }
+    
+     .p2{
+        text-align: justify;
+        margin: 0 34%;
+     } 
+    
+     .p3{
+        text-align: justify;
+        margin: 0 34%; 
+     } 
+    
+     .p4{
+        text-align: justify;
+        margin: 0 34%; 
+     } 
